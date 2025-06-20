@@ -1,0 +1,1 @@
+A simple Debian Bookworm Slim baseimage with locales installed and set to en_US.UTF-8 UTF-8
